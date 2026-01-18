@@ -1,6 +1,6 @@
 {
-  "name": "The Vitiane's Tech Blog Storage",
-  "short_name": "The Vitiane's Tech Blog Storage",
+  "name": "The Tech Blog Storage",
+  "short_name": "The Tech Blog Storage",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",

@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on The Vitiane&#39;s Tech Blog Storage</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on The Vitiane&#39;s Tech Blog Storage</description>
+    <title>Posts on The Tech Blog Storage</title>
+    <link>https://the-vitiane-TBS.github.io/posts/</link>
+    <description>Recent content in Posts on The Tech Blog Storage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Jan 2026 12:50:44 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Jan 2026 21:54:24 +0700</lastBuildDate>
+    <atom:link href="https://the-vitiane-TBS.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mypost</title>
-      <link>http://localhost:1313/posts/mypost/</link>
+      <title>[101] Apache Avro</title>
+      <link>https://the-vitiane-TBS.github.io/posts/data_engineering/file_format/avro/</link>
+      <pubDate>Sun, 18 Jan 2026 21:54:24 +0700</pubDate>
+      <guid>https://the-vitiane-TBS.github.io/posts/data_engineering/file_format/avro/</guid>
+      <description>&lt;p&gt;APACHE AVRO&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, Avro!&amp;#34;&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>[101] Apache Parquet</title>
+      <link>https://the-vitiane-TBS.github.io/posts/data_engineering/file_format/parquet/</link>
       <pubDate>Sun, 18 Jan 2026 12:50:44 +0700</pubDate>
-      <guid>http://localhost:1313/posts/mypost/</guid>
-      <description>&lt;p&gt;Hello, World!&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;This is my first blog post!&amp;#34;&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+      <guid>https://the-vitiane-TBS.github.io/posts/data_engineering/file_format/parquet/</guid>
+      <description>&lt;p&gt;APACHE PARQUET&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, Parquet!&amp;#34;&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
